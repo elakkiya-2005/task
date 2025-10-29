@@ -17,3 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 "# task" 
 "# devops-lab" 
 "# pipeline" 
+"# task_final" 
